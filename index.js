@@ -232,7 +232,8 @@ app.use(function (error, req, res, next) {
 
 
 
-let port = 5001; //process.env.PORT || 3000;
+// let port = 5001; //process.env.PORT || 3000;
+let port = process.env.PORT || 3000;
 
 app.set('port', port);
 

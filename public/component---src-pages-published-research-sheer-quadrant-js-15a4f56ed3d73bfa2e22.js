@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{Pyhk:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return d}));var a=t("q1tI"),r=t.n(a),u=t("GO5I"),c=t("6Gdd"),l=t("yx9C");function d(){return r.a.createElement(c.a,null,r.a.createElement(l.a,{title:"Sheer Quadrant"}),r.a.createElement(u.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-published-research-sheer-quadrant-js-15a4f56ed3d73bfa2e22.js.map
